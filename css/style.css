@@ -216,6 +216,10 @@ aside p {
   margin-bottom: 50px;
 }
 
+.item P {
+    text-align: center;
+}
+
 /* CONTACT
 ------------------------------- */
 #contact {
