@@ -46,13 +46,13 @@ img {
 /* ボタン */
 .button {
     font-size: 1.375rem;
-    background: #0bd;
+    background: #92cda8;
     color: #fff;
     border-radius: 5px;
     padding: 18px 32px;
 }
 .button:hover {
-    background: #0090aa;
+    background: #c9e099;
 }
 
 /* iframe */
@@ -67,12 +67,13 @@ iframe {
     justify-content: space-between;
 }
 .logo {
-    width: 210px;
+    width: 280px;
     margin-top: 14px;
 }
 .main-nav {
     display: flex;
-    font-size: 1.25rem;
+    font-family: 'Philosopher', serif;
+    font-size: 1.50rem;
     text-transform: uppercase;
     margin-top: 34px;
     list-style: none;
@@ -84,13 +85,13 @@ iframe {
     color: #432;
 }
 .main-nav a:hover {
-    color: #0bd;
+    color: #92cda8;
 }
 
 /* HOME
 ------------------------------- */
 #home {
-    background-image: url(../images/main-bg.jpg);
+    background-image: url(../images/main.jpg);
     min-height: 100vh;
 }
 #home .page-title {
