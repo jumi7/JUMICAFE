@@ -109,8 +109,8 @@ iframe {
 /* NEWS
 ------------------------------- */
 #news {
-    background-image: url(../images/news-bg.jpg);
-    height: 270px;
+    background-image: url(../images/news-bg-pa2.jpg);
+    height: 500px;
     margin-bottom: 40px;
 }
 #news .page-title {
